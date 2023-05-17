@@ -1,0 +1,1681 @@
+ .btn-1 {
+	 display: block;
+	 width: 50px;
+	 font-family:chiller;
+	 font-weight:300;
+	 font-size: 30px;
+	 text-align: right;
+	 background-color:#BDBDBD;
+	 border-radius:10px;
+	 padding:5px 410px;
+	 color:#fff;
+	 text-decoration: none;
+		
+	}
+	.btn-1:hover {
+	background-color:black;
+		 border: 8px solid purple;
+		 
+	}
+	
+	
+	.btn-2 {
+	 display: block;
+	 width: 50px;
+	 font-family:chiller;
+	 font-weight:300;
+	 font-size: 30px;
+	 text-align:right;
+	 background-color:#848484;
+	 border-radius:10px;
+	 padding:5px 410px;
+	 margin-left: 1070px;
+	 margin-top: -150px;
+	 color:#fff;
+	 text-decoration: none;
+		
+	}
+	.btn-2:hover {
+	background-color:black;
+		 border: 8px solid #8A0829;
+	}
+	
+	.btn-3 {
+	 display: block;
+	 width: 50px;
+	 font-family:chiller;
+	 font-weight:300;
+	 font-size: 30px;
+	 text-align:right;
+	 background-color:#848484;
+	 border-radius:10px;
+	 padding:5px 410px;
+	 margin-top:15px;
+	 color:#fff;
+	 text-decoration: none;
+		
+	}
+	.btn-3:hover {
+	background-color:black;
+		 border: 8px solid green;
+	}
+	
+	.btn-4 {
+	 display: block;
+	 width: 50px;
+	 font-family:chiller;
+	 font-weight:300;
+	 font-size: 30px;
+	 text-align:right;
+	 background-color:#BDBDBD;
+	 border-radius:10px;
+	 padding:5px 410px;
+	 margin-left: 1070px;
+	 margin-top:-185px;
+	 color:#fff;
+	 text-decoration: none;
+		
+	}
+	.btn-4:hover {
+	background-color:black;
+		 border: 8px solid yellow;
+	}
+	
+	.btn-5 {
+	 display: block;
+	 width: 50px;
+	 font-family:chiller;
+	 font-weight:300;
+	 font-size: 30px;
+	 text-align:right;
+	 background-color:#BDBDBD;
+	 border-radius:10px;
+	 padding:5px 410px;
+	 margin-top: 15px;
+	 color:#fff;
+	 text-decoration: none;
+		
+	}
+	.btn-5:hover {
+	background-color:black;
+		 border: 8px solid blue;
+	}
+	
+	.btn-6 {
+	 display: block;
+	 width: 50px;
+	 font-family:chiller;
+	 font-weight:300;
+	 font-size: 30px;
+	 text-align:right;
+	 background-color:#848484;
+	 border-radius:10px;
+	 padding:5px 410px;
+	 margin-left: 1070px;
+	 margin-top: -150px;
+	 color:#fff;
+	 text-decoration: none;
+		
+	}
+	.btn-6:hover {
+	background-color:black;
+		 border: 8px solid pink;
+	}
+	
+	.btn-7 {
+	 display: block;
+	 width: 50px;
+	 font-family:chiller;
+	 font-weight:300;
+	 font-size: 30px;
+	 text-align:right;
+	 background-color: #848484;
+	 border-radius:10px;
+	 padding:5px 410px;
+	 margin-top: 50px;
+	 color:#fff;
+	 text-decoration: none;
+		
+	}
+	.btn-7:hover {
+	background-color:black;
+		 border: 8px solid orange;
+	}
+	
+	.btn-8 {
+	 display: block;
+	 width: 50px;
+	 font-family:chiller;
+	 font-weight:300;
+	 font-size: 30px;
+	 text-align:right;
+	 background-color:#BDBDBD;
+	 border-radius:10px;
+	 padding:5px 410px;
+	 margin-top: -150px;
+	 margin-left: 1070px;
+	 color:#fff;
+	 text-decoration: none;
+		
+	}
+	.btn-8:hover {
+	background-color:black;
+		 border: 8px solid white;
+	}
+	
+	.link-1 {
+		text-decoration: none;
+	}
+	
+	.link-2 {
+		text-decoration: none;
+	}
+	
+	.link-3 {
+		text-decoration: none;
+	}
+	
+	.link-4 {
+		text-decoration: none;
+	}
+	
+	.link-5 {
+		text-decoration: none;
+	}
+	
+	.link-6 {
+		text-decoration: none;
+	}
+	
+	.link-7 {
+		text-decoration: none;
+	}
+	
+	.link-8 {
+		text-decoration: none;
+	}
+	
+	.container {
+		max-width:1800px;
+		margin: 0 auto;
+	}
+	
+	.footer {
+		background-color: #2E2E2E;
+		padding:80px 0;
+		margin-top: 120px;
+	}
+	
+	.footer-row{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	
+	.footer-links {
+		width: 25px;
+		padding: 0 15px;
+	}
+	
+	.footer-links font {
+		font-size: 20px;
+		color: #ffffff;
+		margin-bottom: 25px;
+		font-weight: 500px;
+		border-bottom: 2px solid purple;
+		padding-bottom: 10px;
+        display: inline-block;	
+    }		
+	 
+	.footer-links ul li a:hover {
+        
+        color: #ffffff;
+        padding-left: 6px;
+	}
+    
+    .social-link a {
+         display: inline-block;
+         min-height: 40px;	
+         width: 40px;		 
+	     background-color: rgba(255, 255, 255, 0.2);
+		 margin: 0 10px 10px 0;
+		 text-align: center;
+		 line-height:40px;
+		 border-radius: 50%;
+		 color: #ffffff;
+		 transition: all .5s ease;
+	}
+	.social-link a:hover {
+		background-color: purple;
+	}
+	
+	@media(max-width:991px){
+		.footer-row{
+			text-align:center;
+		}
+		.footer-links{
+			width: 100%;
+			margin-bottom: 30px;
+		}
+		
+	}
+		
+	.img-1 {
+		 background-image: url(https://images.stockx.com/360/Air-Jordan-1-Retro-High-OG-Chicago-Reimagined/Images/Air-Jordan-1-Retro-High-OG-Chicago-Reimagined/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1665692308&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 
+	}
+	.btn-nike1{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+		color: white;
+	
+	}
+	.btn-nike1:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.img-2 {
+		 background-image: url(https://images.stockx.com/360/Air-Jordan-1-Retro-High-Laney-GS/Images/Air-Jordan-1-Retro-High-Laney-GS/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1672989158&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 800px;
+	     margin-top: -190px;
+	}
+	.btn-nike2{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	     color: white;
+	}
+	.btn-nike2:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	.img-3 {
+		 background-image: url(https://images.stockx.com/360/Air-Jordan-1-Retro-High-OG-Stealth-GS/Images/Air-Jordan-1-Retro-High-OG-Stealth-GS/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1662585590&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+	     margin-top: -190px;
+		 
+	}
+	.btn-nike3{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-nike3:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.img-4 {
+		 background-image: url(https://images.stockx.com/360/Nike-Dunk-Low-White-Black-2021-W/Images/Nike-Dunk-Low-White-Black-2021-W/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1635341330&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: -1240px;
+		 margin-top: -210px;
+		 
+	}
+	.btn-nike4{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	    color: white;
+	}
+	.btn-nike4:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.img-5 {
+		 background-image: url(https://images.stockx.com/360/Air-Jordan-4-Retro-Thunder-2023/Images/Air-Jordan-4-Retro-Thunder-2023/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1680207753&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+		 margin-top: -190px;
+		 
+	}
+	.btn-nike5{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+		color: white;
+	
+	}
+	.btn-nike5:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	.img-6 {
+		 background-image: url(https://images.stockx.com/360/Nike-Dunk-SB-Low-Jedi/Images/Nike-Dunk-SB-Low-Jedi/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1635168748&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: -1220px;
+		 margin-top: 150px;
+		 
+	}
+	.btn-nike6{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+		color: white;
+	
+	}
+	.btn-nike6:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.img-7 {
+		 background-image: url(https://images.stockx.com/360/Air-Jordan-3-Retro-White-Cement-Reimagined/Images/Air-Jordan-3-Retro-White-Cement-Reimagined/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1677687850&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 800px;
+		 margin-top: -200px;
+		 
+	}
+	.btn-nike7{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	    color: white;
+	}
+	.btn-nike7:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.img-8 {
+		 background-image: url(https://images.stockx.com/360/Air-Jordan-1-Retro-Low-OG-SP-Travis-Scott-Olive-W/Images/Air-Jordan-1-Retro-Low-OG-SP-Travis-Scott-Olive-W/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1679671245&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+		 margin-top: -210px;
+	}
+	.btn-nike8{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-nike8:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.img-9 {
+		 background-image: url(https://images.stockx.com/360/Nike-Dunk-Low-Light-Orewood-Brown-Sashiko/Images/Nike-Dunk-Low-Light-Orewood-Brown-Sashiko/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1676380685&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: -1240px;
+		 margin-top: -200px;
+	}
+	.btn-nike9{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-nike9:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	.img-10 {
+		 background-image: url(https://images.stockx.com/360/Air-Jordan-4-Retro-SB-Pine-Green/Images/Air-Jordan-4-Retro-SB-Pine-Green/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1678350115&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+		 margin-top: -190px;
+	}
+	.btn-nike10{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-nike10:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	.img-11 {
+		 background-image: url(https://images.stockx.com/360/Air-Jordan-1-Mid-Space-Jam/Images/Air-Jordan-1-Mid-Space-Jam/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1676542711&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: -1220px;
+		 margin-top: 150px;
+	}
+	.btn-nike11{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-nike11:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	.img-12 {
+		 background-image: url(https://images.stockx.com/360/Nike-Air-Force-1-Low-White-07/Images/Nike-Air-Force-1-Low-White-07/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1635275427&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		  margin-left: 800px;
+		 margin-top: -200px;
+		 
+	}
+	.btn-nike12{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-nike12:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	.img-13 {
+		 background-image: url(https://images.stockx.com/360/Air-Jordan-5-Retro-UNC-University-Blue/Images/Air-Jordan-5-Retro-UNC-University-Blue/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1678267312&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 800px;
+		 margin-top: -200px;
+	}
+	.btn-nike13{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-nike13:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	.img-14 {
+		 background-image: url(https://images.stockx.com/360/Air-Jordan-1-Retro-Low-OG-SP-Travis-Scott-Black-Phantom/Images/Air-Jordan-1-Retro-Low-OG-SP-Travis-Scott-Black-Phantom/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1671636316&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		  margin-left: -1240px;
+		 margin-top: -200px;
+	}
+	.btn-nike14{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-nike14:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	.img-15 {
+		 background-image: url(https://images.stockx.com/360/Air-Jordan-13-Retro-Black-Flint/Images/Air-Jordan-13-Retro-Black-Flint/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1680798236&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+		 margin-top: -190px;
+	}
+	.btn-nike15{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-nike15:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	
+	.ima-1 {
+		 background-image: url(https://images.stockx.com/360/adidas-Campus-00s-Core-Black/Images/adidas-Campus-00s-Core-Black/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1681284184&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 
+	}
+	.btn-adidas1{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+		color: white;
+	
+	}
+	.btn-adidas1:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.ima-2 {
+		 background-image: url(https://images.stockx.com/360/adidas-Yeezy-Slide-Black/Images/adidas-Yeezy-Slide-Black/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1646687558&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 800px;
+	     margin-top: -190px;
+	}
+	.btn-adidas2{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	     color: white;
+	}
+	.btn-adidas2:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	.ima-3 {
+		 background-image: url(https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Pure-Oat/Images/adidas-Yeezy-Boost-350-V2-Pure-Oat/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1648479649&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+	     margin-top: -190px;
+		 
+	}
+	.btn-adidas3{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-adidas3:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.ima-4 {
+		 background-image: url(https://images.stockx.com/360/adidas-Yeezy-Foam-RNNR-Onyx/Images/adidas-Yeezy-Foam-RNNR-Onyx/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1654263493&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: -1240px;
+		 margin-top: -190px;
+		 
+	}
+	.btn-adidas4{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	    color: white;
+	}
+	.btn-adidas4:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.ima-5 {
+		 background-image: url(https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Zebra/Images/adidas-Yeezy-Boost-350-V2-Zebra/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1635342807&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+		 margin-top: -180px;
+		 
+	}
+	.btn-adidas5{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+		color: white;
+	
+	}
+	.btn-adidas5:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	.ima-6 {
+		 background-image: url(https://images.stockx.com/360/adidas-Forum-Low-White-Black/Images/adidas-Forum-Low-White-Black/Lv2/img02.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1671722563&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: -1220px;
+		 margin-top: 150px;
+		 
+	}
+	.btn-adidas6{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+		color: white;
+	
+	}
+	.btn-adidas6:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.ima-7 {
+		 background-image: url(https://images.stockx.com/360/adidas-Gazelle-Gucci-Original-GG-Biege-Brown/Images/adidas-Gazelle-Gucci-Original-GG-Biege-Brown/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1661782891&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 800px;
+		 margin-top: -200px;
+		 
+	}
+	.btn-adidas7{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	    color: white;
+	}
+	.btn-adidas7:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.ima-8 {
+		 background-image: url(https://images.stockx.com/360/adidas-Forum-Low-The-Simpsons-Duffman/Images/adidas-Forum-Low-The-Simpsons-Duffman/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1635259423&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+		 margin-top: -210px;
+	}
+	.btn-adidas8{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-adidas8:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.ima-9 {
+		 background-image: url(https://images.stockx.com/360/adidas-Forum-Low-The-Grinch-GS/Images/adidas-Forum-Low-The-Grinch-GS/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1679991861&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: -1240px;
+		 margin-top: -200px;
+	}
+	.btn-adidas9{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-adidas9:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	.ima-10 {
+		 background-image: url(https://images.stockx.com/360/adidas-Forum-Low-Bad-Bunny-Pink/Images/adidas-Forum-Low-Bad-Bunny-Pink/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1635341309&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+		 margin-top: -190px;
+	}
+	.btn-adidas10{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-adidas10:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	
+	.ime-1 {
+		 background-image: url(https://images.stockx.com/360/New-Balance-550-White-Green/Images/New-Balance-550-White-Green/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1635799416&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 
+	}
+	.btn-nw1{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+		color: white;
+	
+	}
+	.btn-nw1:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.ime-2 {
+		 background-image: url(https://images.stockx.com/360/New-Balance-550-White-Grey/Images/New-Balance-550-White-Grey/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1635272622&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 800px;
+	     margin-top: -190px;
+	}
+	.btn-nw2{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	     color: white;
+	}
+	.btn-nw2:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	.ime-3 {
+		 background-image: url(https://images.stockx.com/360/New-Balance-550-UNC-White-Dusk-Blue-W/Images/New-Balance-550-UNC-White-Dusk-Blue-W/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1675066946&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+	     margin-top: -190px;
+		 
+	}
+	
+	.btn-nw3{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-nw3:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.ime-4 {
+		 background-image: url(https://images.stockx.com/360/New-Balance-9060-Multi-Color/Images/New-Balance-9060-Multi-Color/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1680290417&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: -1240px;
+		 margin-top: -190px;
+		 
+	}
+	.btn-nw4{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	    color: white;
+	}
+	.btn-nw4:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.ime-5 {
+		 background-image: url(https://images.stockx.com/360/New-Balance-550-White-Red/Images/New-Balance-550-White-Red/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1634913221&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+		 margin-top: -180px;
+		 
+	}
+	.btn-nw5{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+		color: white;
+	
+	}
+	.btn-nw5:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	.ime-6 {
+		 background-image: url(https://images.stockx.com/360/New-Balance-9060-Blue-Haze/Images/New-Balance-9060-Blue-Haze/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1677687851&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: -1220px;
+		 margin-top: 150px;
+		 
+	}
+	.btn-nw6{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+		color: white;
+	
+	}
+	.btn-nw6:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.ime-7 {
+		 background-image: url(https://images.stockx.com/360/New-Balance-550-Aime-Leon-Dore-Grey-Suede/Images/New-Balance-550-Aime-Leon-Dore-Grey-Suede/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1669224055&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 800px;
+		 margin-top: -200px;
+		 
+	}
+	.btn-nw7{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	    color: white;
+	}
+	.btn-nw7:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.ime-8 {
+		 background-image: url(https://images.stockx.com/360/New-Balance-9060-Truffle-Rich-Earth-Magnet/Images/New-Balance-9060-Truffle-Rich-Earth-Magnet/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1672992713&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+		 margin-top: -210px;
+	}
+	.btn-nw8{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-nw8:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.ime-9 {
+		 background-image: url(https://images.stockx.com/360/New-Balance-1906D-Protection-Pack-Turtledove/Images/New-Balance-1906D-Protection-Pack-Turtledove/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1672302179&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: -1240px;
+		 margin-top: -200px;
+	}
+	.btn-nw9{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-nw9:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	.ime-10 {
+		 background-image: url(https://images.stockx.com/360/New-Balance-990v6-Action-Bronson-Baklava/Images/New-Balance-990v6-Action-Bronson-Baklava/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1680207741&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+		 margin-top: -190px;
+	}
+	.btn-nw10{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-nw10:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	
+	.imu-1 {
+		 background-image: url(https://images.stockx.com/360/A-Bathing-Ape-Bapesta-Low-Color-Block-Shark-Black/Images/A-Bathing-Ape-Bapesta-Low-Color-Block-Shark-Black/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1635342510&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 
+	}
+	.btn-bp1{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+		color: white;
+	
+	}
+	.btn-bp1:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.imu-2 {
+		 background-image: url(https://images.stockx.com/360/A-Bathing-Ape-Bape-Sta-Marvel-Comics-Spider-Man/Images/A-Bathing-Ape-Bape-Sta-Marvel-Comics-Spider-Man/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=2&updated_at=1683746034&h=384&q=75);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 800px;
+	     margin-top: -190px;
+	}
+	.btn-bp2{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	     color: white;
+	}
+	.btn-bp2:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	.imu-3 {
+		 background-image: url(https://images.stockx.com/360/A-Bathing-Ape-Bape-Sta-MI-Green/Images/A-Bathing-Ape-Bape-Sta-MI-Green/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=2&updated_at=1641481855&h=384&q=75);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+	     margin-top: -190px;
+		 
+	}
+	
+	.btn-bp3{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-bp3:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.imu-4 {
+		 background-image: url(https://images.stockx.com/360/A-Bathing-Ape-Bape-Road-Sta-Green/Images/A-Bathing-Ape-Bape-Road-Sta-Green/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=2&updated_at=1671805223&h=384&q=75);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: -1240px;
+		 margin-top: -190px;
+		 
+	}
+	.btn-bp4{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	    color: white;
+	}
+	.btn-bp4:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.imu-5 {
+		 background-image: url(https://images.stockx.com/360/A-Bathing-Ape-Bape-Sta-White-Purple-2022/Images/A-Bathing-Ape-Bape-Sta-White-Purple-2022/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=2&updated_at=1667575489&h=384&q=75);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+		 margin-top: -180px;
+		 
+	}
+	.btn-bp5{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+		color: white;
+	
+	}
+	.btn-bp5:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	
+	
+	
+	.imi-1 {
+		 background-image: url(https://images.stockx.com/360/Vans-Old-Skool-Gallery-Dept-Good-Luck/Images/Vans-Old-Skool-Gallery-Dept-Good-Luck/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=2&updated_at=1676452546&h=384&q=75);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 
+	}
+	.btn-vs1{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+		color: white;
+	
+	}
+	.btn-vs1:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.imi-2 {
+		 background-image: url(https://images.stockx.com/360/Vans-Vault-Slip-On-VR3-LX-Nicole-McLaughlin-Gardening-Tote-White/Images/Vans-Vault-Slip-On-VR3-LX-Nicole-McLaughlin-Gardening-Tote-White/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=2&updated_at=1681374237&h=384&q=75);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 800px;
+	     margin-top: -190px;
+	}
+	.btn-vs2{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	     color: white;
+	}
+	.btn-vs2:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	.imi-3 {
+		 background-image: url(https://images.stockx.com/360/Vans-Style-36-Stranger-Things/Images/Vans-Style-36-Stranger-Things/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=2&updated_at=1665037508&h=384&q=75);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+	     margin-top: -190px;
+		 
+	}
+	
+	.btn-vs3{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-vs3:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.imi-4 {
+		 background-image: url(https://images.stockx.com/360/Vans-Skate-Old-Skool-One-Piece-Nico-Robin/Images/Vans-Skate-Old-Skool-One-Piece-Nico-Robin/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=2&updated_at=1670225205&h=384&q=75);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: -1240px;
+		 margin-top: -190px;
+		 
+	}
+	.btn-vs4{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	    color: white;
+	}
+	.btn-vs4:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.imi-5 {
+		 background-image: url(https://images.stockx.com/360/Vans-Old-Skool-36-DX-Bape-Green-ABC-Camo/Images/Vans-Old-Skool-36-DX-Bape-Green-ABC-Camo/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=2&updated_at=1646745391&h=384&q=75);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+		 margin-top: -180px;
+		 
+	}
+	.btn-vs5{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+		color: white;
+	
+	}
+	.btn-vs5:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	
+	
+	
+	.imo-1 {
+		 background-image: url(https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70s-Hi-Comme-des-Garcons-PLAY-Black/Images/Converse-Chuck-Taylor-All-Star-70s-Hi-Comme-des-Garcons-PLAY-Black/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=2&updated_at=1673372724&h=384&q=75);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 
+	}
+	.btn-cs1{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+		color: white;
+	
+	}
+	.btn-cs1:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.imo-2 {
+		 background-image: url(https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70s-Hi-Comme-des-Garcons-PLAY-White/Images/Converse-Chuck-Taylor-All-Star-70s-Hi-Comme-des-Garcons-PLAY-White/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=2&updated_at=1635340375&h=384&q=75);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 800px;
+	     margin-top: -190px;
+	}
+	.btn-cs2{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	     color: white;
+	}
+	.btn-cs2:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	.imo-3 {
+		 background-image: url(https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70s-Hi-Comme-des-Garcons-PLAY-Blue/Images/Converse-Chuck-Taylor-All-Star-70s-Hi-Comme-des-Garcons-PLAY-Blue/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=2&updated_at=1635279217&h=384&q=75);
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+	     margin-top: -190px;
+		 
+	}
+	
+	.btn-cs3{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-cs3:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.imo-4 {
+		 background-image: url(https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Ader-Error/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Ader-Error/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1675343904&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: -1240px;
+		 margin-top: -190px;
+		 
+	}
+	.btn-cs4{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	    color: white;
+	}
+	.btn-cs4:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.imo-5 {
+		 background-image: url(https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70s-Ox-Comme-des-Garcons-Play-Multi-Heart-White/Images/Converse-Chuck-Taylor-All-Star-70s-Ox-Comme-des-Garcons-Play-Multi-Heart-White/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=2&updated_at=1635272926&h=384&q=75);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+		 margin-top: -180px;
+		 
+	}
+	.btn-cs5{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+		color: white;
+	
+	}
+	.btn-cs5:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	
+	
+	.imj-1 {
+		 background-image: url(https://images.stockx.com/360/Louis-Vuitton-LV-Skate-Sneaker-Beige-White/Images/Louis-Vuitton-LV-Skate-Sneaker-Beige-White/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1672215801&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 
+	}
+	.btn-ds1{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+		color: white;
+	
+	}
+	.btn-ds1:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.imj-2 {
+		 background-image: url(https://images.stockx.com/360/Louis-Vuitton-Nike-Air-Force-1-Low-By-Virgil-Abloh-White-Royal/Images/Louis-Vuitton-Nike-Air-Force-1-Low-By-Virgil-Abloh-White-Royal/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=2&updated_at=1656084667&h=384&q=75);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 800px;
+	     margin-top: -190px;
+	}
+	.btn-ds2{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	     color: white;
+	}
+	.btn-ds2:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	.imj-3 {
+		 background-image: url(https://images.stockx.com/360/Balenciaga-Speed-Trainer-Black-White-2021/Images/Balenciaga-Speed-Trainer-Black-White-2021/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1649430565&h=384&q=57);
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+	     margin-top: -190px;
+		 
+	}
+	
+	.btn-ds3{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-ds3:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.imj-4 {
+		 background-image: url(https://images.stockx.com/360/Air-Jordan-1-Retro-High-Dior/Images/Air-Jordan-1-Retro-High-Dior/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=2&updated_at=1635189753&h=384&q=75);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: -1240px;
+		 margin-top: -190px;
+		 
+	}
+	.btn-ds4{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	    color: white;
+	}
+	.btn-ds4:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.imj-5 {
+		 background-image: url(https://images.stockx.com/360/Dior-B23-High-Top-Logo-Oblique/Images/Dior-B23-High-Top-Logo-Oblique/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=2&updated_at=1635283335&h=384&q=75);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+		 margin-top: -180px;
+		 
+	}
+	.btn-ds5{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+		color: white;
+	
+	}
+	.btn-ds5:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	
+	
+	
+	.imx-1 {
+		 background-image: url(https://images.stockx.com/360/Nike-Air-Force-1-Mid-Off-White-Black/Images/Nike-Air-Force-1-Mid-Off-White-Black/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=2&updated_at=1655994243&h=384&q=75);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 
+	}
+	.btn-of1{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+		color: white;
+	
+	}
+	.btn-of1:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.imx-2 {
+		 background-image: url(https://images.stockx.com/360/OFF-WHITE-Out-Of-Office-OOO-Low-Tops-White-Black-White/Images/OFF-WHITE-Out-Of-Office-OOO-Low-Tops-White-Black-White/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1678267274&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 800px;
+	     margin-top: -190px;
+	}
+	.btn-of2{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	     color: white;
+	}
+	.btn-of2:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	.imx-3 {
+		 background-image: url(https://images.stockx.com/360/Air-Jordan-1-Retro-High-Off-White-University-Blue/Images/Air-Jordan-1-Retro-High-Off-White-University-Blue/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=2&updated_at=1634917617&h=384&q=75);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+	     margin-top: -190px;
+		 
+	}
+	
+	.btn-of3{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	color: white;
+	}
+	.btn-of3:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.imx-4 {
+		 background-image: url(https://images.stockx.com/360/Air-Jordan-1-Retro-High-Off-White-Chicago/Images/Air-Jordan-1-Retro-High-Off-White-Chicago/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=1&updated_at=1652991786&h=384&q=57);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: -1240px;
+		 margin-top: -190px;
+		 
+	}
+	.btn-of4{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+	    color: white;
+	}
+	.btn-of4:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
+	
+	.imx-5 {
+		 background-image: url(https://images.stockx.com/360/Air-Jordan-1-Retro-High-Off-White-White/Images/Air-Jordan-1-Retro-High-Off-White-White/Lv2/img01.jpg?fm=webp&auto=compress&w=576&dpr=2&updated_at=1634924522&h=384&q=75);
+		 background-repeat: no-repeat;
+		 background-size: contain;
+		 height:250px;
+		 width:250px;
+		 text-align: center;
+		 padding-top:45px;
+		 margin-left: 830px;
+		 margin-top: -180px;
+		 
+	}
+	.btn-of5{
+		background-color:#848484;
+		border: 0px;
+		padding: 15px;
+		margin-top: 100px;
+		color: white;
+	
+	}
+	.btn-of5:hover {
+	background-color:black;
+		 border: 2px solid #40FF00;
+	}
